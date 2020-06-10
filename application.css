@@ -14,22 +14,17 @@ main{
   padding: 5px 40px;
   margin-top: 10px;
   border-radius: 15px;
+  align-items: center;
+}
+
+img {
+  border-radius: 20px;
+  width: 240px;
 }
 
 .title {
   margin: 30px;
   text-align:center;
-}
-
-.logo, .headline {
-  margin: 0;
-  text-align: center;
-}
-
-.logo img {
-  width: 50%;
-  height: 35%;
-  margin-bottom: 25px;
 }
 
 .eventos {
